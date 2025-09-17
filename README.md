@@ -7,3 +7,5 @@ first enter vps ip address
 ```js
 sss root@<ip address>
 ```
+
+Then enter your password
