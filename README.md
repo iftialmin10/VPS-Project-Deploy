@@ -1,6 +1,6 @@
 # VPS Project Deploy
 
-### 1
+## Step-1
 
 first enter vps ip address
 
@@ -9,3 +9,5 @@ sss root@<ip address>
 ```
 
 Then enter your password
+
+### 2
