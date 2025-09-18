@@ -2,7 +2,7 @@
 
 ## Step-1
 
-First enter vps ip address
+First enter VPS IP address
 
 ```js
 sss root@<ip address>
