@@ -18,6 +18,8 @@ Go to www folder
 cd /var/www
 ```
 
+Check all project
+
 ```js
 ls;
 ```
