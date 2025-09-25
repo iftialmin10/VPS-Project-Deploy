@@ -35,3 +35,11 @@ Clone your github project
 ```js
 git clone git@github.com:MdAfsarHossain/VPS-Project-Deploy.git
 ```
+
+## Step-4
+
+```js
+ls;
+```
+
+
