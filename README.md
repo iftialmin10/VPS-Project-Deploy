@@ -42,4 +42,12 @@ git clone git@github.com:MdAfsarHossain/VPS-Project-Deploy.git
 ls;
 ```
 
+```js
+cd vps-project-deploy/
+```
+
+```js
+npm i
+```
+
 
