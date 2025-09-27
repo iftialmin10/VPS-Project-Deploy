@@ -50,4 +50,8 @@ cd vps-project-deploy/
 npm i
 ```
 
+```js
+npm run build
+```
 
+## Step-5
