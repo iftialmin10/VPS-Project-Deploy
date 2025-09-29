@@ -55,3 +55,12 @@ npm run build
 ```
 
 ## Step-5
+
+```js
+sudo ufw enable
+```
+
+```js
+sudo ufw status
+```
+
