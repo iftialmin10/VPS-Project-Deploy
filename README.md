@@ -64,3 +64,34 @@ sudo ufw enable
 sudo ufw status
 ```
 
+```js
+sudo ufw allow 5008
+```
+
+```js
+sudo ufw status
+```
+
+```js
+npm run start
+```
+
+```js
+sudo ufw reload
+```
+
+```js
+npm i -g pm2
+```
+
+```js
+pm2 start npm --name "vps-project-deploy" -- start
+```
+
+```js
+pm2 logs vps-project-deploy
+```
+
+```js
+pm2 ls
+```
