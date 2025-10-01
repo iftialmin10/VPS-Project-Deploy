@@ -80,6 +80,8 @@ npm run start
 sudo ufw reload
 ```
 
+## Step-6
+
 ```js
 npm i -g pm2
 ```
