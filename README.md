@@ -1,4 +1,4 @@
-# VPS Project Deploy
+# VPS Project Deployment
 
 ## Step-1
 
