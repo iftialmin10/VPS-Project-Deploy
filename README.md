@@ -54,6 +54,10 @@ npm i
 npm run build
 ```
 
+```js
+npm run dev
+```
+
 ## Step-5 enable port
 
 ```js
