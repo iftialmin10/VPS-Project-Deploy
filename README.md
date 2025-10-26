@@ -33,7 +33,7 @@ ls;
 Clone your github project
 
 ```js
-git clone git@github.com:MdAfsarHossain/VPS-Project-Deploy.git
+git clone githubsshkey
 ```
 
 ## Step-4
@@ -43,7 +43,7 @@ ls;
 ```
 
 ```js
-cd vps-project-deploy/
+cd git_repo_folder
 ```
 
 ```js
@@ -54,7 +54,7 @@ npm i
 npm run build
 ```
 
-## Step-5
+## Step-5 enable port
 
 ```js
 sudo ufw enable
@@ -80,7 +80,7 @@ npm run start
 sudo ufw reload
 ```
 
-## Step-6
+## Step-6 for live server
 
 ```js
 npm i -g pm2
